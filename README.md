@@ -4,4 +4,4 @@ This is a small repository used to demostrate how-to package, deploy, and test A
 
 | Service          | Image                                                                          | Container   |
 | -                | -                                                                              | -           |
-| lambda_service   | [public.ecr.aws/lambda/nodejs:latest](https://gallery.ecr.aws/lambda/nodejs)   | test-lambda |
+| lambda_service   | [public.ecr.aws/lambda/nodejs:14](https://gallery.ecr.aws/lambda/nodejs)   | test-lambda |

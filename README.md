@@ -1,6 +1,6 @@
 # lambda-container-support
 
-This is a small repository used to demostrate how-to package, deploy, and test AWS Lambda code as a container image using Docker.
+This is a small repository used to demostrate how-to package, deploy, and test AWS Lambda code in a container image using Docker.
 
 | Service          | Image                                                                          | Container   |
 | -                | -                                                                              | -           |
